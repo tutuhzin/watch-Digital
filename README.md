@@ -1,6 +1,9 @@
 # watch-Digital
 Project developed in html, css and javascript
 
+the project counts like clockwork.
+
+
 The project will continue to be developed, where the user will be able to choose the color he thinks best.
 
 
